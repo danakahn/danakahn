@@ -1,4 +1,4 @@
-### Hi there 👋
+### Working on creating my personal website with my science and music experiences
 
 <!--
 **danakahn/danakahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
